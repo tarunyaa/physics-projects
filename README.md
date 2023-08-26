@@ -1,4 +1,6 @@
-## Physics Projects
+|[Home](https://tarunyaa.github.io) 🏠    [Penngineering Projects](https://tarunyaa.github.io/pengineering-projects/) 🦾     [neuro42 Projects](https://tarunyaa.github.io/neuro42-projects/) 📡     [Science Communication Projects](https://tarunyaa.github.io/science-communication-projects/) 🗣  |
+
+## Physics Projects 🔭
 
 ### MicroLEDs Research Paper 🥼
 *MicroLEDs they require 90% less power input than LCDs do and can potentially enable the use of Li-fi. I wrote a research article about them under the mentorship of Dr. Sudhiranjan Tripathy at ASTAR*
@@ -16,7 +18,7 @@ Due to material constraints, I had to build the experimental apparatus from scra
 
 > |Skills: Scientific Experimentation & Writing | [Paper](https://drive.google.com/file/d/1Vz8gSiQ_JxKGfsHGMDfyFlaJm6mnkh4T/view?usp=sharing)|
 
-### Gravitational Waves Modelling 🔭
+### Gravitational Waves Modelling 🌌
 *Gravitational waves are disturbances or ‘ripples’ in space-time. They originate from massive accelerating masses such as binary black holes or neutron stars and travel at the speed of light. This was our team's final project for Physics 2600.*
 
 The first gravitational waves were detected by LIGO in 2015 and was a momentous discovery for the science community. This detection was a result of a <span style="color:green">binary black hole merger</span>, an event dubbed GW150914. As time went on, two other types of binary mergers were detected. The first <span style="color:green">binary neutron star merger</span>, GW170817, was detected by LIGO in 2017, and the <span style="color:green">first binary black hole - neutron star merger</span>, GW200105, was detected by LIGO in 2020. 
