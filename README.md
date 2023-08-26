@@ -1,7 +1,7 @@
 ## Physics Projects
 
 ### MicroLEDs Research Paper 🥼
-*MicroLEDs they require 90% less power input than LCDs do and can potentially enable the use of Li-fi. I wrote a research article about them under the mentorship of Dr. Sudhiranjan Tripathy at ASTAR*
+*MicroLEDs they require 90% less power input than LCDs do and can potentially enable the use of Li-fi. I wrote a research article about them under the mentorship of Dr. Sudhiranjan Tripathy at A**STAR*
 
 This article is a research review of <span style="color:green">microscopic Gallium Nitride-based LEDs</span> since their first demonstration in 2000 and a proposal of the use of <span style="color:green">silicon</span>-substrate type microLEDs, which may increase the market readiness of the technology. The article examines other inventions, namely the vertical-cavity surface-emitting laser and Quantum Dots, and merges the prototypes together to propose a completely new <span style="color:green">‘super micro-cavity’ design</span>.
 
