@@ -10,7 +10,7 @@ This article is a research review of microscopic Gallium Nitride-based LEDs sinc
 ### Ferrofluids Experiment 👩‍🔬
 *Ferrofluids are proposed to be ‘enhanced’ heat transfer fluids by virtue of the variability of its physical properties under an external magnetic field. I conducted an experiment about them for my IB Physics Extended Essay.*
 
-The relationship between external magnetic field strength and thermal conductivity was studied through a modified transient-hot wire method. Ferrofluid was kept in a custom acrylic box, a heat source was placed in the middle and magnetic field was varied using Nd magnets. Temperature rise of the ferrofluid at the edges of the box was measured over time, using a temperature probe. Thermal conductivity was then calculated.
+My overheating headphones were always a buzzkill while listening to Spotify. As I researched into better alternatives to the conventional coolants used in my terrible headphones, I came across ferrofluids. Mesmerized by the geometric spikes it forms under a magnetic field and the strange nature of its inter-particle behavior, I began testing its suitability as a heat transfer fluid. Due to material constraints, I had to build the experimental apparatus from scratch- creating a variable magnetic field without an electromagnet and making my own thermal conductivity measurement instrument with copper tubing and an acrylic box. As an experimenter, I am always tinkering to come up with new ways to test my whacky hypotheses. 
 
 > Skills: Scientific Experimentation & Writing | [Paper](https://drive.google.com/file/d/1Vz8gSiQ_JxKGfsHGMDfyFlaJm6mnkh4T/view?usp=sharing)
 
