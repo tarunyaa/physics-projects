@@ -25,7 +25,7 @@ The first gravitational waves were detected by LIGO in 2015 and was a momentous 
 
 The <span style="color:green">motion</span> of these gravitational waves collision events were modeled and their <span style="color:green">timescales</span> of collisions are compared. More information and simulation results are included in the poster. I worked on this project with Shivani Nellore.
 
-> |Skills: Python, Analytical Methods | Github | [Poster](https://drive.google.com/file/d/1HXGZQ2tlFVAbhJxlg5PTQOBApYyYWKSy/view?usp=sharing)|
+> |Skills: Python, Analytical Methods | [Github](https://github.com/tarunyaa/gravitationalwaves) | [Poster](https://drive.google.com/file/d/1HXGZQ2tlFVAbhJxlg5PTQOBApYyYWKSy/view?usp=sharing)|
 
 ### Asteroid Orbit Modelling ☄️
 *Asteroids whose distance of closest approach to the Earth is lesser than 1.3 Astronomical Units (or 1.95×10** m) are known as Near-Earth Asteroids. I modelled their behaviour for my IB Math Internal Assessement.*
