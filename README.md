@@ -5,7 +5,7 @@
 
 This article is a research review of <span style="color:green">microscopic Gallium Nitride-based LEDs</span> since their first demonstration in 2000 and a proposal of the use of <span style="color:green">silicon</span>-substrate type microLEDs, which may increase the market readiness of the technology. The article examines other inventions, namely the vertical-cavity surface-emitting laser and Quantum Dots, and merges the prototypes together to propose a completely new <span style="color:green">‘super micro-cavity’ design</span>.
 
-> Skills: Scientific Writing, Literature Review | [Abstract](https://drive.google.com/drive/u/2/search?q=microleds)
+Skills: Scientific Writing, Literature Review | [Abstract](https://drive.google.com/drive/u/2/search?q=microleds)
 
 ### Ferrofluids Experiment 👩‍🔬
 *Ferrofluids are are a type of nanofluids made of superparamagnetic nanoparticles. I conducted an experiment about them for my IB Physics Extended Essay.*
@@ -14,7 +14,7 @@ My overheating headphones were always a buzzkill while listening to Spotify. As 
 
 Due to material constraints, I had to build the experimental apparatus from scratch - creating a <span style="color:green">variable magnetic field</span> without an electromagnet and making my own thermal conductivity measurement instrument with <span style="color:green">copper tubing and an acrylic box</span>. As an experimenter, I am always tinkering to come up with new ways to test my whacky hypotheses. 
 
-> Skills: Scientific Experimentation & Writing | [Paper](https://drive.google.com/file/d/1Vz8gSiQ_JxKGfsHGMDfyFlaJm6mnkh4T/view?usp=sharing)
+Skills: Scientific Experimentation & Writing | [Paper](https://drive.google.com/file/d/1Vz8gSiQ_JxKGfsHGMDfyFlaJm6mnkh4T/view?usp=sharing)
 
 ### Gravitational Waves Modelling 🔭
 *Gravitational waves are disturbances or ‘ripples’ in space-time. They originate from massive accelerating masses such as binary black holes or neutron stars and travel at the speed of light. This was our team's final project for Physics 2600.*
@@ -23,7 +23,7 @@ The first gravitational waves were detected by LIGO in 2015 and was a momentous 
 
 The <span style="color:green">motion</span> of these gravitational waves collision events were modeled and their <span style="color:green">timescales</span> of collisions are compared. More information and simulation results are included in the poster. I worked on this project with Shivani Nellore.
 
-> Skills: Python, Analytical Methods | Github | [Poster](https://drive.google.com/file/d/1HXGZQ2tlFVAbhJxlg5PTQOBApYyYWKSy/view?usp=sharing)
+Skills: Python, Analytical Methods | Github | [Poster](https://drive.google.com/file/d/1HXGZQ2tlFVAbhJxlg5PTQOBApYyYWKSy/view?usp=sharing)
 
 ### Asteroid Orbit Modelling ☄️
 *Asteroids whose distance of closest approach to the Earth is lesser than 1.3 Astronomical Units (or 1.95×10** m) are known as Near-Earth Asteroids. I modelled their behaviour for my IB Math Internal Assessement.*
@@ -32,4 +32,4 @@ In 2020, my friends and I were worried as NASA detected five asteroids that were
 
 I attempted to solve the problem of how can one determine the distance between a Near Earth Asteroid and the Sun with angular measurements of right ascension and declination only. Using the geometry of sectors, as well as <span style="color:green">cross and dot product</span>, I outlined a concise derivation of <span style="color:green">Gauss’s method of Orbit Determination</span>. Subsequently, I applied the method to primary data and determine the distance of Asteroid CX1 from the Sun in mid-October 2020. Following this, I derived <span style="color:green">Lagrange’s f and g series</span> through a <span style="color:green">McLaurin Expansion</span> to make the method more precise and understand the limitations of Gauss’s Method.
 
-> Skills: Excel, Analytical Methods | [Paper](https://drive.google.com/file/d/1wdUoEjyaPomQTTdOOs6IcoSMgBUAace9/view?usp=sharing)
+Skills: Excel, Analytical Methods | [Paper](https://drive.google.com/file/d/1wdUoEjyaPomQTTdOOs6IcoSMgBUAace9/view?usp=sharing)
