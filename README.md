@@ -8,22 +8,28 @@ This article is a research review of microscopic Gallium Nitride-based LEDs sinc
 > Skills: Scientific Writing, Literature Review | [Abstract](https://drive.google.com/drive/u/2/search?q=microleds)
 
 ### Ferrofluids Experiment 👩‍🔬
-*Ferrofluids are proposed to be ‘enhanced’ heat transfer fluids by virtue of the variability of its physical properties under an external magnetic field. I conducted an experiment about them for my IB Physics Extended Essay.*
+*Ferrofluids are are a type of nanofluids made of superparamagnetic nanoparticles. I conducted an experiment about them for my IB Physics Extended Essay.*
 
-My overheating headphones were always a buzzkill while listening to Spotify. As I researched into better alternatives to the conventional coolants used in my terrible headphones, I came across ferrofluids. Mesmerized by the geometric spikes it forms under a magnetic field and the strange nature of its inter-particle behavior, I began testing its suitability as a heat transfer fluid. Due to material constraints, I had to build the experimental apparatus from scratch- creating a variable magnetic field without an electromagnet and making my own thermal conductivity measurement instrument with copper tubing and an acrylic box. As an experimenter, I am always tinkering to come up with new ways to test my whacky hypotheses. 
+My overheating headphones were always a buzzkill while listening to Spotify. As I researched into better alternatives to the conventional coolants used in my terrible headphones, I came across ferrofluids. Mesmerized by the geometric spikes it forms under a magnetic field and the strange nature of its inter-particle behavior, I began testing its suitability as a heat transfer fluid. 
+
+Due to material constraints, I had to build the experimental apparatus from scratch - creating a variable magnetic field without an electromagnet and making my own thermal conductivity measurement instrument with copper tubing and an acrylic box. As an experimenter, I am always tinkering to come up with new ways to test my whacky hypotheses. 
 
 > Skills: Scientific Experimentation & Writing | [Paper](https://drive.google.com/file/d/1Vz8gSiQ_JxKGfsHGMDfyFlaJm6mnkh4T/view?usp=sharing)
 
 ### Gravitational Waves Modelling 🔭
 *Gravitational waves are disturbances or ‘ripples’ in space-time. They originate from massive accelerating masses such as binary black holes or neutron stars and travel at the speed of light. This*
 
-The first Gravitational waves were detected by LIGO in 2015. This detection was a result of a binary black hole merger, an event dubbed GW150914. As time went on, two other types of binary mergers were detected. The first binary neutron star merger, GW170817, was detected by LIGO in 2017, and the first binary black hole - neutron star merger, GW200105, was detected by LIGO in 2020. The motion of these gravitational waves collision events were modeled and their timescales of collisions are compared. More information and simulation results are included in the poster. I worked on this project with Shivani Nellore.
+The first Gravitational waves were detected by LIGO in 2015 and was a momentous discovery for the science community. This detection was a result of a binary black hole merger, an event dubbed GW150914. As time went on, two other types of binary mergers were detected. The first binary neutron star merger, GW170817, was detected by LIGO in 2017, and the first binary black hole - neutron star merger, GW200105, was detected by LIGO in 2020. 
+
+The motion of these gravitational waves collision events were modeled and their timescales of collisions are compared. More information and simulation results are included in the poster. I worked on this project with Shivani Nellore.
 
 > Skills: Python, Analytical Methods | Github | [Poster](https://drive.google.com/file/d/1HXGZQ2tlFVAbhJxlg5PTQOBApYyYWKSy/view?usp=sharing)
 
 ### Asteroid Orbit Modelling ☄️
 *Asteroids whose distance of closest approach to the Earth is lesser than 1.3 Astronomical Units (or 1.95×10** m) are known as Near-Earth Asteroids. I modelled their behaviour for my IB Math Internal Assessement.*
 
-I attempted to solve the problem of how can one determine the distance between a Near Earth Asteroid and the Sun with limited information as we usually have, with just angular measurements of right ascension and declination only. Using the geometry of sectors, as well as cross and dot product, I outlined a concise derivation of Gauss’s method of Orbit Determination. Subsequently, I applied the method to primary data and determine the distance of Asteroid CX1 from the Sun in mid-October 2020. Following this, I derived Lagrange’s f and g series through a McLaurin Expansion to make the method more precise and understand the limitations of Gauss’s Method.
+In 2020, my friends and I were worried as NASA detected five asteroids that were heading towards the Earth. Although they didn't land, they were able to get so close without detection due to limited information about them. 
+
+I attempted to solve the problem of how can one determine the distance between a Near Earth Asteroid and the Sun with angular measurements of right ascension and declination only. Using the geometry of sectors, as well as cross and dot product, I outlined a concise derivation of Gauss’s method of Orbit Determination. Subsequently, I applied the method to primary data and determine the distance of Asteroid CX1 from the Sun in mid-October 2020. Following this, I derived Lagrange’s f and g series through a McLaurin Expansion to make the method more precise and understand the limitations of Gauss’s Method.
 
 > Skills: Excel, Analytical Methods | [Paper](https://drive.google.com/file/d/1wdUoEjyaPomQTTdOOs6IcoSMgBUAace9/view?usp=sharing)
