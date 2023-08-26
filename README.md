@@ -17,7 +17,7 @@ Due to material constraints, I had to build the experimental apparatus from scra
 > Skills: Scientific Experimentation & Writing | [Paper](https://drive.google.com/file/d/1Vz8gSiQ_JxKGfsHGMDfyFlaJm6mnkh4T/view?usp=sharing)
 
 ### Gravitational Waves Modelling 🔭
-*Gravitational waves are disturbances or ‘ripples’ in space-time. They originate from massive accelerating masses such as binary black holes or neutron stars and travel at the speed of light. This*
+*Gravitational waves are disturbances or ‘ripples’ in space-time. They originate from massive accelerating masses such as binary black holes or neutron stars and travel at the speed of light. This was our team's final project for Physics 2600.*
 
 The first Gravitational waves were detected by LIGO in 2015 and was a momentous discovery for the science community. This detection was a result of a binary black hole merger, an event dubbed GW150914. As time went on, two other types of binary mergers were detected. The first binary neutron star merger, GW170817, was detected by LIGO in 2017, and the first binary black hole - neutron star merger, GW200105, was detected by LIGO in 2020. 
 
